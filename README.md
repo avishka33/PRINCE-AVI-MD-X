@@ -67,18 +67,7 @@ AVI whatsapp bot is,
 ## [`WATCH YOUTUBE VIDEOS`](https://youtube.com/@Avi_NetHunter)
  
   
- * Deploy on Heroku Video ⇓
- <p align="left">
-<a href="https://youtu.be/IIl6etHMyoA"><img align="center" src="https://telegra.ph/file/30a48f9e9879189d2ef6d.jpg" alt="DEPLOY" height="110" width="200" /></a>
-   
-* Deploy on Railway Video ⇓
- <p align="left">
-<a href="https://youtu.be/j91TKKIXaMg"><img align="center" src="https://telegra.ph/file/517fafc4228129ff18510.jpg" alt="DEPLOY" height="110" width="200" /></a>
-   
-* Deploy on Replit Video ⇓
- <p align="left">
-<a href="[https://youtube.com/mrnimaofc](https://youtu.be/j91TKKIXaMg)"><img align="center" src="https://telegra.ph/file/909f2519b1dc65a338b29.jpg" alt="DEPLOY" height="110" width="200" /></a>
-   
+
    
    
 # 
