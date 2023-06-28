@@ -3,7 +3,7 @@
 </p> 
  
 <p align="center"> 
-<u>♥️ AVISHKA SHAVINDA ♥️</u>
+<u> 💖 PRINE-AVI-MD💖</u>
 </p>
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/134716496?s=400&u=3144c950fbe72c2dd36e4b002528e773ec5ca03a&v=4.jpg" width="300" height="300"/>
