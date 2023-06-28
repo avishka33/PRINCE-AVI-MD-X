@@ -95,7 +95,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone 
-cd Queen-Elisa-Md-V2
+cd -PRINCE-AVI-MD-
 npm install
 npm start
 ```
