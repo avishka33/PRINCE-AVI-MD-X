@@ -6,7 +6,7 @@
 <u> 💖 PRINE-AVI-MD💖</u>
 </p>
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/134716496?s=400&u=3144c950fbe72c2dd36e4b002528e773ec5ca03a&v=4.jpg" width="300" height="300"/>
+<img src="https://avatars.githubusercontent.com/u/132133420?v=4.jpg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=AVI+NET+HUNTER" alt="">
