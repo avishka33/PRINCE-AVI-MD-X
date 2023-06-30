@@ -1,3 +1,11 @@
+/* DONT CHANGE THIS COMMAND  කමාන්ඩ් වෙනස් කරන්න එපා බොට් වැඩ කරන්නැ
+
+
+
+
+*/
+
+
 import { createHash } from 'crypto'
 import PhoneNumber from 'awesome-phonenumber'
 import { canLevelUp, xpRange } from '../lib/levelling.js'
