@@ -30,9 +30,9 @@
 
 <b>Version --> 3.8.6</b>
 # 
-AVI whatsapp bot is,
+💖Prince avi md 💖 whatsapp bot is,
 
-     AVI whatsapp bot is an easy to use whatsapp robot.   | AVI whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+  💖Prince avi md 💖 whatsapp bot is an easy to use whatsapp robot.   | AVI whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
@@ -57,7 +57,7 @@ AVI whatsapp bot is,
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/Queen-Elisa-MD-V2)
+[`Deploy on heroku`]
 
 [`Deploy on Replit`](https://replit.com)
 
@@ -79,7 +79,7 @@ AVI whatsapp bot is,
 3. Uplode creds.json file to sessions folder
 4. Make acount on your host
 5. Connect Your Repository to your web host site
-6. [Watch Videos](http://youtube.com/mrnimaofc)
+6. [Watch Videos](https://youtube.com/@Avi_NetHunter)
 # 
 # 
 ### [ DEPLY ON TERMUX ]
@@ -103,11 +103,11 @@ npm start
 <summary>✅ New Updates</summary>
 
   
-  ◉ Fix .ai Command
+  ◉
   
-  ◉ Fix Auto ai 
+  ◉ 
   
-  ◉ Fix Apk Download 
+  ◉ 
 
 ## 🆕 New additions 🆕
  ◉ Add New Instagram Downloader ( .ig )
@@ -122,11 +122,11 @@ npm start
 <summary>🌐 Support For Deploy </summary>
 <p>
 </details>
-THANAKS FOR USNING AVI 💃💖
+THANAKS FOR USNING 💖Prince avi md 💖
 
-* [🧑‍💻 Join AVI Support Group 🧑‍💻](https://chat.whatsapp.com/KdprfVQTCUs3unMIODAjJN))
+* [🧑‍💻 Join AVI Support Group 🧑‍💻](https://chat.whatsapp.com/HgmlgexUpS8GwFGpYMbznt)
 
-* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/KdprfVQTCUs3unMIODAjJN))
+* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/HgmlgexUpS8GwFGpYMbznt)
 
      
        ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
