@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💖Prince avi md 💖'
+global.botname = '💖𝙋𝙍𝙄𝙉𝘾𝙀 𝘼𝙑𝙄 𝙈𝘿💖'
 global.premium = 'true'
-global.packname = '💖Prince avi md 💖' 
-global.author = '💖Prince avi md 💖' 
+global.packname = '💖𝙋𝙍𝙄𝙉𝘾𝙀 𝘼𝙑𝙄 𝙈𝘿💖' 
+global.author = '💖𝙋𝙍𝙄𝙉𝘾𝙀 𝘼𝙑𝙄 𝙈𝘿💖' 
 global.igfg = ' 𝘼𝙑𝙄' 
 global.dygp = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI'
 global.fgsc = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI' 
@@ -59,12 +59,12 @@ global.fgpyp = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI'
 global.fglog = 'https://avatars.githubusercontent.com/u/134716496?v=4.jpg' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💖Prince avi md 💖..._*'
-global.rwait = '🇱🇰'
-global.dmoji = '🤣'
-global.done = '👍'
-global.error = '👎' 
-global.xmoji = '🫶' 
+global.wait = '*💝 _ටිකක් ඉන්න Uploading by 💖Prince avi md 💖...*'
+global.rwait = '💫'
+global.dmoji = '🎠'
+global.done = '✅'
+global.error = '⚠️' 
+global.xmoji = '💚' 
 
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
