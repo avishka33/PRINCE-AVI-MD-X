@@ -80,8 +80,8 @@
 + DEPLOY STEPS
 # 
 1. Fork This Repository 
-2. Update [settings.js]()
-3. Uplode creds.json file to sessions folder
+2. Update [config.js]()
+3. Uplode avi.data.json file to sessions folder
 4. Make acount on your host
 5. Connect Your Repository to your web host site
 6. [Watch Videos](https://youtube.com/@Avi_NetHunter)
