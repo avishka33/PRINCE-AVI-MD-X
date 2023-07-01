@@ -78,7 +78,7 @@ let str = `
 ▢ .info
 ▢ .owner
 ▢ .donate
-▢ .gpguru
+▢ .gpavi
 ▢ .listprem
 ▢ .help
 ▢ .audios
@@ -275,9 +275,9 @@ let str = `
 └───────────
 
 ┌─⊷ *ADVANCED*
-▢ >
-▢ =>
-▢ $
+▢ ai
+▢ chatgpt
+▢ AVI AI
 └───────────  
 `
     conn.sendFile(m.chat, pp, 'perfil.jpg', str, m, false, { mentions: [who] })
