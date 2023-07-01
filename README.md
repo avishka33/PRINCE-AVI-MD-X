@@ -30,7 +30,7 @@
 
 <b>Version --> 3.8.6</b>
 # 
-💖Prince avi md 💖 whatsapp bot is,
+
 
   💖Prince avi md 💖 whatsapp bot is an easy to use whatsapp robot.   | AVI whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
