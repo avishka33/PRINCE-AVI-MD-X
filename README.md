@@ -28,7 +28,7 @@
 
 ### Please Give One Star ✨ & [follow for me notify my updates 💗] (https://github.com/avishka33)
 
-<b>Version --> 3.8.6</b>
+<b>Version -->1</b>
 # 
 
 
