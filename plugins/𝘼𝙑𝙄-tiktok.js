@@ -1,1 +1,39 @@
-function _0x3cca(_0x324744,_0x465f74){const _0x366599=_0x3665();return _0x3cca=function(_0x3cca4a,_0x20e5d2){_0x3cca4a=_0x3cca4a-0x1e0;let _0x3896ac=_0x366599[_0x3cca4a];return _0x3896ac;},_0x3cca(_0x324744,_0x465f74);}const _0x24b023=_0x3cca;(function(_0x70627,_0x562c9d){const _0x187242=_0x3cca,_0x5c4ebe=_0x70627();while(!![]){try{const _0x51402d=parseInt(_0x187242(0x1fc))/0x1+parseInt(_0x187242(0x1e2))/0x2+parseInt(_0x187242(0x1f6))/0x3*(parseInt(_0x187242(0x1f3))/0x4)+parseInt(_0x187242(0x1fe))/0x5+parseInt(_0x187242(0x1f2))/0x6*(-parseInt(_0x187242(0x1e6))/0x7)+-parseInt(_0x187242(0x1ec))/0x8*(-parseInt(_0x187242(0x1e3))/0x9)+-parseInt(_0x187242(0x1f1))/0xa*(parseInt(_0x187242(0x201))/0xb);if(_0x51402d===_0x562c9d)break;else _0x5c4ebe['push'](_0x5c4ebe['shift']());}catch(_0x3038be){_0x5c4ebe['push'](_0x5c4ebe['shift']());}}}(_0x3665,0x8d389));import _0x22e831 from'api-dylux';import{tiktokdl,tiktokdlv2,tiktokdlv3}from'@bochilteam/scraper';function _0x3665(){const _0x4800aa=['1707364giOHtn','416133jZIspY','https://tikcdn.net','tiktok','14fMOddM','💝\x20Error\x20downloading\x20the\x20video','command','no_watermark','match','\x0a┌─💝\x20prince\x20avi\x20💝\x20TIKTOK\x0a💝\x20*Username:\x20','16AIEazS','catch','chat','\x0a💝\x20*Duration:\x20','play','15338010ivrPTv','1969026jLtdnu','981284aIpdaw','\x0a└───────────','💝\x20prince\x20avi\x20💝,\x20Enter\x20a\x20Tiktok\x20link\x0a\x0a\x20💝\x20Ex:\x20','3wkdBZu','react','\x20https://vm.tiktok.com/ZSLjV2eoP/','no_watermark2','\x0a💝\x20*Description:\x20','no_watermark_raw','719981TovCOn','title','4285630XxvwlP','help','sendFile','11EexvQL','duration','no_watermark_hd','tiktok.mp4','\x0a┌─💝\x20prince\x20avi\x20💝\x20TIKTOK\x20DL*\x0a💝\x20*Username:*\x20'];_0x3665=function(){return _0x4800aa;};return _0x3665();}let handler=async(_0x2a46d0,{conn:_0x292095,text:_0x9359a3,args:_0x49e9e3,usedPrefix:_0x1eb350,command:_0x96429e})=>{const _0x375b66=_0x3cca;if(!_0x49e9e3[0x0])throw _0x375b66(0x1f5)+(_0x1eb350+_0x96429e)+_0x375b66(0x1f8);if(!_0x49e9e3[0x0][_0x375b66(0x1ea)](/tiktok/gi))throw'💝\x20verify\x20that\x20the\x20link\x20is\x20from\x20tiktok\x20💝\x20prince\x20avi\x20💝';_0x2a46d0[_0x375b66(0x1f7)](rwait);try{let _0x127490=await _0x22e831[_0x375b66(0x1e5)](_0x49e9e3[0x0]),_0x301d8f=_0x375b66(0x1eb)+_0x127490['unique_id']+_0x375b66(0x1fa)+_0x127490[_0x375b66(0x1fd)]+_0x375b66(0x1ef)+_0x127490[_0x375b66(0x202)]+'\x0a└───────────';_0x292095[_0x375b66(0x200)](_0x2a46d0[_0x375b66(0x1ee)],_0x127490[_0x375b66(0x1f0)],_0x375b66(0x1e0),_0x301d8f,_0x2a46d0),_0x2a46d0[_0x375b66(0x1f7)](done);}catch{const {author:{nickname:_0x3357fa},video:_0x51900b,description:_0x45cd1b}=await tiktokdl(_0x49e9e3[0x0])[_0x375b66(0x1ed)](async _0x1dcb6a=>await tiktokdlv2(_0x49e9e3[0x0]))[_0x375b66(0x1ed)](async _0x42d78d=>await tiktokdlv3(_0x49e9e3[0x0])),_0x4a0d5e=_0x51900b[_0x375b66(0x1f9)]||_0x51900b[_0x375b66(0x1e9)]||_0x375b66(0x1e4)+_0x51900b[_0x375b66(0x1fb)]||_0x51900b[_0x375b66(0x203)];if(!_0x4a0d5e)throw _0x375b66(0x1e7);_0x292095[_0x375b66(0x200)](_0x2a46d0[_0x375b66(0x1ee)],_0x4a0d5e,'fb.mp4',_0x375b66(0x1e1)+_0x3357fa+'\x20'+(_0x45cd1b?_0x375b66(0x1fa)+_0x45cd1b:'')+_0x375b66(0x1f4),_0x2a46d0),_0x2a46d0[_0x375b66(0x1f7)](done);}};handler[_0x24b023(0x1ff)]=['tiktok'],handler['tags']=['dl'],handler[_0x24b023(0x1e8)]=/^(tiktok|ttdl|tiktokdl|tiktoknowm)$/i,handler['diamond']=![];export default handler;
+
+import fg from 'api-dylux' 
+import { tiktokdl, tiktokdlv2, tiktokdlv3 } from '@bochilteam/scraper'
+
+let handler = async (m, { conn, text, args, usedPrefix, command}) => {
+if (!args[0]) throw `✳️ Enter a Tiktok link\n\n 📌 Example : ${usedPrefix + command} https://vm.tiktok.com/ZMNqyusVD/?k=1`
+if (!args[0].match(/tiktok/gi)) throw `❎ verify that the link is from tiktok`
+m.react(rwait)
+
+try {
+    let p = await fg.tiktok(args[0]) 
+    let te = `
+┌─⊷ TIKTOK ටික් ටොක්
+▢ *Username:* ${p.unique_id}
+▢ *Description:* ${p.title}
+▢ *Duration:* ${p.duration}
+└───────────`
+   conn.sendFile(m.chat, p.play, 'tiktok.mp4', te, m)
+    m.react(done)
+    } catch {  	
+	const { author: { nickname }, video, description } = await tiktokdl(args[0])
+         .catch(async _ => await tiktokdlv2(args[0]))
+         .catch(async _ => await tiktokdlv3(args[0]))
+    const url = video.no_watermark2 || video.no_watermark || 'https://tikcdn.net' + video.no_watermark_raw || video.no_watermark_hd
+    if (!url) throw '❎ මෙක ඩව්න්ලෝඩ් කරන්න බැ සමාවෙන්න'
+     conn.sendFile(m.chat, url, 'fb.mp4', `
+┌─⊷ *TIKTOK DL*
+▢ *Username:* ${nickname} ${description ? `\n▢ *Description:* ${description}` : ''}
+└───────────`, m)
+m.react(done)
+} 
+    
+}  
+handler.help = ['tiktok']
+handler.tags = ['dl']
+handler.command = /^(tiktok|ttdl|tiktokdl|tiktoknowm)$/i
+handler.diamond = true
+
+export default handler
