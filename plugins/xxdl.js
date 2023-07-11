@@ -60,7 +60,7 @@ let handler = async (m, { conn, args, text, usedPrefix, command }) => {
 
 handler.help = ['xnxx'];
 handler.tags = ['nsfw', 'prem'];
-handler.command = ['xnxxsearch', 'xnxxdl', 'xnxx'];
+handler.command = ['xnxxsearch', 'xnxxdl', 'xnxx','x'];
 handler.group = true;
 handler.premium = false;
 handler.register = true;
