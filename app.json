@@ -3,7 +3,7 @@
   "description": "Customizable WhatsApp Bot",
   "repository": "https://github.com/avishka33/-PRINCE-AVI-MD-",
   "logo": "https://avatars.githubusercontent.com/u/134716496?v=4.jpg",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "💖Prince avi md 💖", "GURU-bot-md", "GURU-bot"],
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "💖Prince avi md 💖", "Avi-bot-md", "AVI-NET-HUNTER"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
