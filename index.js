@@ -1,4 +1,4 @@
-console.log('✅ STARTING...AVI ')
+console.log('✅ STARTING...AVI 🗡️')
 
 import { join, dirname } from 'path'
 import { createRequire } from 'module';
@@ -16,12 +16,12 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('REAL KING', {
+say('HI AVI', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say(`'${name}' REAL KING AVI._`, {
+say(`'${name}'AVISHKA SHAVINDA._`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
