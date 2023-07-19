@@ -6,8 +6,8 @@ var number = text.split`@`[1]
 }else if(!isNaN(text)) {
 var number = text
 }
-if(!text && !m.quoted) return conn.reply(m.chat, `Plzz bza Use the following command of 💖Prince avi md 💖 \n *${usedPrefix + command}* @tag`, m)
-if(number.length > 13 || (number.length < 11 && number.length > 0)) return conn.reply(m.chat, `😤 That Number incorrect,identify by *💖Prince avi md 💖*`, m)
+if(!text && !m.quoted) return conn.reply(m.chat, `Plzz bza Use the following command of 🗡️PRINCE AVI MD🗡️ \n *${usedPrefix + command}* @tag`, m)
+if(number.length > 13 || (number.length < 11 && number.length > 0)) return conn.reply(m.chat, `😤 That Number incorrect,identify by *🗡️PRINCE AVI MD🗡️*`, m)
   
 try {
 if(text) {
@@ -20,7 +20,7 @@ var user = number + '@s.whatsapp.net'
 } catch (e) {
 } finally {
 conn.groupParticipantsUpdate(m.chat, [user], 'demote')
-m.reply(`🤟 User demoted by 💖Prince avi md 💖 User`)
+m.reply(`🤟 User demoted by 🗡️AVI🗡️ User`)
 }
 
 }
