@@ -13,7 +13,7 @@ conn.sendFile(m.chat, thumbnail, 'error.jpg', spotifyi, m)
 let aa = await conn.sendMessage(m.chat, { audio: { url: json2.result.link }, fileName: `error.mp3`, mimetype: 'audio/mp4' }, { quoted: m })  
 if (!aa) return conn.sendFile(m.chat, json2.result.link, 'error.mp3', null, m, false, { mimetype: 'audio/mp4' }) 
 } catch {
-throw '* 𝙴𝚁𝚁𝙾𝚁*'
+throw '* දෝශයක්*'
 }}
-handler.command = /^(spotify|song)$/i
+handler.command = /^(spotify|spt)$/i
 export default handler
