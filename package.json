@@ -1,5 +1,5 @@
 { 
-    "name": "PRINCE",
+    "name": "DEVELOPER",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -19,8 +19,8 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "guru-bot",
-        "GURU-bot-md",
+        "avi-bot",
+        "AVI-bot-md",
         "multi-device",
         "MD",
         "baileys-md"
