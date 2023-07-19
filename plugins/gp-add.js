@@ -40,7 +40,7 @@ let handler = async (m, { conn, text, participants }) => {
         const content = getBinaryNodeChild(user, 'add_request')
         const invite_code = content.attrs.code
         const invite_code_exp = content.attrs.expiration
-        let teks = `🔊 Utto @${jid.split('@')[0]} You can add only your ccontacts from 💖Prince avi md 💖:'v `
+        let teks = `🔊 Utto @${jid.split('@')[0]} You can add only your ccontacts from 🗡️PRINCE AVI MD🗡️:'v `
         m.reply(teks, null, {
             mentions: conn.parseMention(teks)
         })
@@ -49,7 +49,7 @@ let handler = async (m, { conn, text, participants }) => {
 }
 handler.help = ['add']
 handler.tags = ['group']
-handler.command = ['add']
+handler.command = ['add,join']
 handler.admin = true
 handler.group = true
 handler.rowner = true
