@@ -1,4 +1,4 @@
-// AVISHKA SHAVINDA
+// BAD_YOVI/
 
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
@@ -9,13 +9,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['0772836332', '𝘼𝙑𝙄', true],
-  ['0772836332', '𝘼𝙑𝙄', true], 
+  ['0773883257', 'BAD_YOVI/', true],
+  ['0773883257', 'BAD_YOVI/', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94772836332','94772836332'] 
-global.prems = ['94772836332', '94772836332', '94772836332']
+global.mods = ['94773883257','94773883257'] 
+global.prems = ['94773883257', '94773883257', '94773883257']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -49,11 +49,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💖𝙋𝙍𝙄𝙉𝘾𝙀 𝘼𝙑𝙄 𝙈𝘿💖'
+global.botname = '💖BAD_YOVI/💖'
 global.premium = 'true'
-global.packname = '💖𝙋𝙍𝙄𝙉𝘾𝙀 𝘼𝙑𝙄 𝙈𝘿💖' 
-global.author = '💖𝙋𝙍𝙄𝙉𝘾𝙀 𝘼𝙑𝙄 𝙈𝘿💖' 
-global.igfg = ' 𝘼𝙑𝙄' 
+global.packname = '💖BAD_YOVI/💖' 
+global.author = '💖BAD_YOVI/💖' 
+global.igfg = ' BAD_YOVI/' 
 global.dygp = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI'
 global.fgsc = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI' 
 global.fgyt = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI'
@@ -61,7 +61,7 @@ global.fgpyp = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI'
 global.fglog = 'https://avatars.githubusercontent.com/u/134716496?v=4.jpg' 
 
 
-global.wait = '*💝 _ටිකක් ඉන්න Uploading by 💖Prince avi md 💖...*'
+global.wait = '*💝 _ටිකක් ඉන්න Uploading by 💖BAD_YOVI/ 💖...*'
 global.rwait = '💫'
 global.dmoji = '🎠'
 global.done = '✅'
