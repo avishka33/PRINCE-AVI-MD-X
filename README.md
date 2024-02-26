@@ -6,7 +6,7 @@
 <u> 🗡️PRINE-AVI-MD🗡️</u>
 </p>
 <p align="center">
-<img src="img" width="300" height="300"/>
+<img src="https://raw.githubusercontent.com/avishka33/PRINCE-AVI-MD-X/main/AVI.jpg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=AVI+NET+HUNTER" alt="">
